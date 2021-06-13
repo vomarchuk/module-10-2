@@ -1,6 +1,8 @@
 const express = require('express');
 const exphbs = require('express-handlebars');
 
+const PORT = process.env.PORT || 4444;
+
 // const products = require('./products.json'); подключяем файл JSON с данными
 
 const app = express();
@@ -29,6 +31,6 @@ app.get('/products', (req, res) => {
   res.render('products', { cssFileName: 'products', title: 'Products' });
 });
 
-app.listen(4444, () => {
+app.listen(PORT, () => {
   console.log(`Application server is running on port ${4444}`);
 });
