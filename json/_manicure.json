@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Manicure Expres (opiłowanie + malowanie)",
+    "price": 45,
+    "price by card": 39
+  },
+  {
+    "name": "Manicure nybrydowy French",
+    "price": 129,
+    "price by card": 109
+  },
+  {
+    "name": "Manicure hybrydowy (z sciąganiem)",
+    "price": 119,
+    "price by card": 99
+  },
+  {
+    "name": "Manicure Japoński",
+    "price": 79,
+    "price by card": 69
+  },
+  {
+    "name": "Manicure klasyczny (z odżywką)",
+    "price": 59,
+    "price by card": 49
+  },
+  {
+    "name": "Manicure męski",
+    "price": 69,
+    "price by card": 59
+  },
+  {
+    "name": "Manicure Vinylux",
+    "price": 69,
+    "price by card": 60
+  },
+  {
+    "name": "Naprava paznokcia",
+    "price": 15,
+    "price by card": 10
+  },
+  {
+    "name": "Ściąganie hybrydy",
+    "price": 30,
+    "price by card": 20
+  },
+  {
+    "name": "Zdobienia paznokci",
+    "price": 15,
+    "price by card": 10
+  }
+]

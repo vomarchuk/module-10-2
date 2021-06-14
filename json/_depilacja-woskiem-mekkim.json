@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Bikini klasyczne (do linii bielizny oraz ścieżka)",
+    "price": [
+      {
+        "women": 45,
+        "man": 55
+      }
+    ],
+    "price by card": [
+      {
+        "women": 39,
+        "man": 45
+      }
+    ]
+  },
+  {
+    "name": "Bikini brazylijskie (cały przód, tył oraz ścieżka)",
+    "price": [
+      {
+        "women": 89,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 75,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Bikini French (częściowo przód oraz ścieżka)",
+    "price": [
+      {
+        "women": 75,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 60,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Brzuch",
+    "price": [
+      {
+        "women": 19,
+        "man": 35
+      }
+    ],
+    "price by card": [
+      {
+        "women": 15,
+        "man": 25
+      }
+    ]
+  },
+  {
+    "name": "Całe nogi",
+    "price": [
+      {
+        "women": 89,
+        "man": 119
+      }
+    ],
+    "price by card": [
+      {
+        "women": 79,
+        "man": 105
+      }
+    ]
+  },
+  {
+    "name": "Całe ręce",
+    "price": [
+      {
+        "women": 59,
+        "man": 65
+      }
+    ],
+    "price by card": [
+      {
+        "women": 49,
+        "man": 59
+      }
+    ]
+  },
+  {
+    "name": "Linia biała",
+    "price": [
+      {
+        "women": 12,
+        "man": 19
+      }
+    ],
+    "price by card": [
+      {
+        "women": 10,
+        "man": 15
+      }
+    ]
+  },
+  {
+    "name": "Pachy",
+    "price": [
+      {
+        "women": 29,
+        "man": 35
+      }
+    ],
+    "price by card": [
+      {
+        "women": 25,
+        "man": 29
+      }
+    ]
+  },
+  {
+    "name": "Plecy (ramiona w cenie)",
+    "price": [
+      {
+        "women": 75,
+        "man": 79
+      }
+    ],
+    "price by card": [
+      {
+        "women": 59,
+        "man": 69
+      }
+    ]
+  },
+  {
+    "name": "Połowa pleców",
+    "price": [
+      {
+        "women": 49,
+        "man": 45
+      }
+    ],
+    "price by card": [
+      {
+        "women": 39,
+        "man": 39
+      }
+    ]
+  },
+  {
+    "name": "Połowa rąk",
+    "price": [
+      {
+        "women": 35,
+        "man": 40
+      }
+    ],
+    "price by card": [
+      {
+        "women": 30,
+        "man": 35
+      }
+    ]
+  },
+  {
+    "name": "Pośladki",
+    "price": [
+      {
+        "women": 20,
+        "man": 25
+      }
+    ],
+    "price by card": [
+      {
+        "women": 15,
+        "man": 20
+      }
+    ]
+  },
+  {
+    "name": "Ramiona",
+    "price": [
+      {
+        "women": 25,
+        "man": 30
+      }
+    ],
+    "price by card": [
+      {
+        "women": 20,
+        "man": 25
+      }
+    ]
+  },
+  {
+    "name": "Twarz (wąsik, policzki, broda, czoło)",
+    "price": [
+      {
+        "women": 55,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 49,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Brwi/wąsik/policzki/broda",
+    "price": [
+      {
+        "women": 30,
+        "man": 35
+      }
+    ],
+    "price by card": [
+      {
+        "women": 25,
+        "man": 30
+      }
+    ]
+  },
+  {
+    "name": "Uda (kolana w cenie)",
+    "price": [
+      {
+        "women": 55,
+        "man": 60
+      }
+    ],
+    "price by card": [
+      {
+        "women": 49,
+        "man": 55
+      }
+    ]
+  },
+  {
+    "name": "Łydki (kolana w cenie)",
+    "price": [
+      {
+        "women": 55,
+        "man": 60
+      }
+    ],
+    "price by card": [
+      {
+        "women": 49,
+        "man": 55
+      }
+    ]
+  },
+  {
+    "name": "Tors",
+    "price": [
+      {
+        "women": "*",
+        "man": 59
+      }
+    ],
+    "price by card": [
+      {
+        "women": "*",
+        "man": 65
+      }
+    ]
+  },
+  {
+    "name": "Palce u rąk/nóg",
+    "price": [
+      {
+        "women": 10,
+        "man": 10
+      }
+    ],
+    "price by card": [
+      {
+        "women": 8,
+        "man": 8
+      }
+    ]
+  }
+]

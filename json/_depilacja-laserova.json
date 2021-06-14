@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bikini Brazylijskie",
+    "price": 349,
+    "price by card": 299
+  },
+  {
+    "name": "Bikini brazylijskie + pachy",
+    "price": 499,
+    "price by card": 399
+  },
+  {
+    "name": "Bikini brazylijskie + pachy + lydki",
+    "price": 799,
+    "price by card": 699
+  },
+  {
+    "name": "Bikini French",
+    "price": 249,
+    "price by card": 199
+  },
+  {
+    "name": "Bikini klasyczne",
+    "price": 129,
+    "price by card": 99
+  },
+  {
+    "name": "Całe nogi",
+    "price": 639,
+    "price by card": 549
+  },
+  {
+    "name": "Całe ręce",
+    "price": 349,
+    "price by card": 299
+  },
+  {
+    "name": "Łydki + pachy",
+    "price": 499,
+    "price by card": 399
+  },
+  {
+    "name": "Łydki/Uda + kolana gratis",
+    "price": 349,
+    "price by card": 299
+  },
+  {
+    "name": "Pachy",
+    "price": 199,
+    "price by card": 149
+  },
+  {
+    "name": "Połowa rąk",
+    "price": 289,
+    "price by card": 239
+  },
+  {
+    "name": "Wąsik / broda / baczki",
+    "price": 149,
+    "price by card": 99
+  }
+]

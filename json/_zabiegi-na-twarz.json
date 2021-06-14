@@ -1,0 +1,57 @@
+[
+  {
+    "name": "",
+    "price": "*",
+    "price by card": "*"
+  },
+  {
+    "name": "Kwas dodatkowo do innych zabiegów",
+    "price": 59,
+    "price by card": 49
+  },
+  {
+    "name": "Lactobionique treatment + masaż/cera wrażliwa, atopowa, trądzik różowaty",
+    "price": 170,
+    "price by card": 150
+  },
+  {
+    "name": "Oczyszczanie twarzy manualne",
+    "price": 180,
+    "price by card": 160
+  },
+  {
+    "name": "Oczyszczanie twarzy manualne na kwasach",
+    "price": 200,
+    "price by card": 180
+  },
+  {
+    "name": "Peeling chemiczny 5 % RETINOL foliation",
+    "price": 260,
+    "price by card": 200
+  },
+  {
+    "name": "Peeling kawitacyjny twarz, szyja i dekolt",
+    "price": 150,
+    "price by card": 130
+  },
+  {
+    "name": "Peeling kawitacyjny twarzy z maską nawilżającą",
+    "price": 99,
+    "price by card": 89
+  },
+  {
+    "name": "Peeling kawitacyjny/jonoforeza -twarz, szyja i dekolt",
+    "price": 165,
+    "price by card": 150
+  },
+  {
+    "name": "WATERDROP treatment -zabieg nawilżająco-dotleniający + masaż",
+    "price": 170,
+    "price by card": 150
+  },
+  {
+    "name": "Zabieg eksfoliacji kwasami",
+    "price": 140,
+    "price by card": 140
+  }
+]

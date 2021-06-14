@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Brwi/wąsik/policzki/broda",
+    "price": [
+      {
+        "women": 35,
+        "man": 35
+      }
+    ],
+    "price by card": [
+      {
+        "women": 29,
+        "man": 29
+      }
+    ]
+  },
+  {
+    "name": "Twarz (brwi, wąsik, policzki, broda, czoło)",
+    "price": [
+      {
+        "women": 89,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 75,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Nos/uszy",
+    "price": [
+      {
+        "women": 35,
+        "man": 35
+      }
+    ],
+    "price by card": [
+      {
+        "women": 29,
+        "man": 29
+      }
+    ]
+  },
+  {
+    "name": "Pachy",
+    "price": [
+      {
+        "women": 45,
+        "man": 50
+      }
+    ],
+    "price by card": [
+      {
+        "women": 35,
+        "man": 45
+      }
+    ]
+  },
+  {
+    "name": "Bikini brazylijskie",
+    "price": [
+      {
+        "women": 129,
+        "man": 229
+      }
+    ],
+    "price by card": [
+      {
+        "women": 115,
+        "man": 219
+      }
+    ]
+  },
+  {
+    "name": "Bikini French",
+    "price": [
+      {
+        "women": 119,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 95,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Bikini klasyczne",
+    "price": [
+      {
+        "women": 69,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 59,
+        "man": "*"
+      }
+    ]
+  }
+]

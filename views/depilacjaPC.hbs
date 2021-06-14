@@ -1,0 +1,31 @@
+{{>site-nav}}
+<table>
+  <thead class='thead'>
+  <tr>
+    <th rowspan='2'>Zabieg</th>
+    <th colspan='2'>Cena</th>
+    <th></th>
+    <th colspan='2'>Z kartą <span>Kiwi Beauty Center</span></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Pani</th>
+    <th>Pan</th>
+    <th></th>
+    <th>Pani</th>
+    <th>Pan</th>
+  </tr>
+</thead>
+<tbody>
+  {{#each depilacjaPCData}}
+    <tr class='table-line'>
+      <td>{{name}}</td>
+      <td>{{price.women}}</td>
+      <td>{{price.man}}</td>
+      <td></td>
+      <td class='karta-kiwi'>{{[price by card].women}}</td>
+      <td class='karta-kiwi'>{{[price by card].man}}</td>
+    </tr>
+  {{/each}}
+</tbody>
+</table>

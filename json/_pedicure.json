@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pedicure Japoński",
+    "price": 119,
+    "price by card": 109
+  },
+  {
+    "name": "Pedicure Vinylux",
+    "price": 129,
+    "price by card": 119
+  },
+  {
+    "name": "Pedicure hybrydowy (z ściąganiem)",
+    "price": 139,
+    "price by card": 119
+  },
+  {
+    "name": "Pedicure hybrydowy French",
+    "price": 145,
+    "price by card": 135
+  },
+  {
+    "name": "Pedicure klasyczny (z odżywką)",
+    "price": 115,
+    "price by card": 99
+  },
+  {
+    "name": "Pedicure męski",
+    "price": 119,
+    "price by card": 109
+  },
+  {
+    "name": "Pół pedicure (z hybrydą)",
+    "price": 99,
+    "price by card": 89
+  },
+  {
+    "name": "Kwasy dodatkowo do zabiegu",
+    "price": 29,
+    "price by card": 25
+  }
+]

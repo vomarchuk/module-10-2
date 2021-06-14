@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Masaż bańką chińską / całe ciało",
+    "price": 199,
+    "price by card": 179
+  },
+  {
+    "name": "Masaż bańką chińską/ częściowo",
+    "price": 139,
+    "price by card": 119
+  },
+  {
+    "name": "Masaż dłoni",
+    "price": 29,
+    "price by card": 25
+  },
+  {
+    "name": "Masaż gorącym kamieniem",
+    "price": 199,
+    "price by card": 159
+  },
+  {
+    "name": "Masaż gorącym kamieniem 80min",
+    "price": 220,
+    "price by card": 189
+  },
+  {
+    "name": "Masaż miodowy / antycellulitowy",
+    "price": 119,
+    "price by card": 99
+  },
+  {
+    "name": "Masaż miodowy /antycellulitowy/ całe ciało",
+    "price": 199,
+    "price by card": 179
+  },
+  {
+    "name": "Masaż relaksacyjny/klasyczny całe ciało",
+    "price": 179,
+    "price by card": 159
+  },
+  {
+    "name": "Masaż relaksacyjny/klasyczny plecy",
+    "price": 119,
+    "price by card": 99
+  },
+  {
+    "name": "Masaż stóp",
+    "price": 35,
+    "price by card": 29
+  },
+  {
+    "name": "Masaż twarzy, szyi i dekoltu",
+    "price": 69,
+    "price by card": 59
+  }
+]

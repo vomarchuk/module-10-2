@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Bikini klasyczne (do linii bielizny oraz ścieżka)",
+    "price": [
+      {
+        "women": 65,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 55,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Bikini brazylijskie (cały przód, tył oraz ścieżka)",
+    "price": [
+      {
+        "women": 129,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 119,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Bikini French (częściowo przód oraz ścieżka)",
+    "price": [
+      {
+        "women": 109,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 89,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Brzuch",
+    "price": [
+      {
+        "women": 35,
+        "man": 45
+      }
+    ],
+    "price by card": [
+      {
+        "women": 29,
+        "man": 35
+      }
+    ]
+  },
+  {
+    "name": "Całe nogi",
+    "price": [
+      {
+        "women": 125,
+        "man": 145
+      }
+    ],
+    "price by card": [
+      {
+        "women": 105,
+        "man": 135
+      }
+    ]
+  },
+  {
+    "name": "Całe ręce",
+    "price": [
+      {
+        "women": 70,
+        "man": 79
+      }
+    ],
+    "price by card": [
+      {
+        "women": 65,
+        "man": 70
+      }
+    ]
+  },
+  {
+    "name": "Linia biała",
+    "price": [
+      {
+        "women": 19,
+        "man": 25
+      }
+    ],
+    "price by card": [
+      {
+        "women": 15,
+        "man": 19
+      }
+    ]
+  },
+  {
+    "name": "Pachy",
+    "price": [
+      {
+        "women": 40,
+        "man": 49
+      }
+    ],
+    "price by card": [
+      {
+        "women": 35,
+        "man": 39
+      }
+    ]
+  },
+  {
+    "name": "Plecy (ramiona w cenie)",
+    "price": [
+      {
+        "women": 125,
+        "man": 139
+      }
+    ],
+    "price by card": [
+      {
+        "women": 105,
+        "man": 130
+      }
+    ]
+  },
+  {
+    "name": "Połowa pleców",
+    "price": [
+      {
+        "women": 59,
+        "man": 65
+      }
+    ],
+    "price by card": [
+      {
+        "women": 49,
+        "man": 59
+      }
+    ]
+  },
+  {
+    "name": "Połowa rąk",
+    "price": [
+      {
+        "women": 55,
+        "man": 65
+      }
+    ],
+    "price by card": [
+      {
+        "women": 45,
+        "man": 55
+      }
+    ]
+  },
+  {
+    "name": "Pośladki",
+    "price": [
+      {
+        "women": 30,
+        "man": 35
+      }
+    ],
+    "price by card": [
+      {
+        "women": 25,
+        "man": 30
+      }
+    ]
+  },
+  {
+    "name": "Ramiona",
+    "price": [
+      {
+        "women": 35,
+        "man": 40
+      }
+    ],
+    "price by card": [
+      {
+        "women": 30,
+        "man": 35
+      }
+    ]
+  },
+  {
+    "name": "Twarz (wąsik, policzki, broda, czoło)",
+    "price": [
+      {
+        "women": 65,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 59,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Wąsik/policzki/broda",
+    "price": [
+      {
+        "women": 39,
+        "man": "*"
+      }
+    ],
+    "price by card": [
+      {
+        "women": 59,
+        "man": "*"
+      }
+    ]
+  },
+  {
+    "name": "Uda (kolana w cenie)",
+    "price": [
+      {
+        "women": 69,
+        "man": 79
+      }
+    ],
+    "price by card": [
+      {
+        "women": 60,
+        "man": 69
+      }
+    ]
+  },
+  {
+    "name": "Łydki (kolana w cenie)",
+    "price": [
+      {
+        "women": 69,
+        "man": 79
+      }
+    ],
+    "price by card": [
+      {
+        "women": 60,
+        "man": 69
+      }
+    ]
+  },
+  {
+    "name": "Tors",
+    "price": [
+      {
+        "women": "*",
+        "man": 69
+      }
+    ],
+    "price by card": [
+      {
+        "women": "*",
+        "man": 60
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{{>site-nav}}
+<table>
+    <thead class="thead">
+        <tr>
+            <th class="first-column">Zabieg</th>
+            <th>Cena</th>
+            <th>Z kartą <span>Kiwi Beauty Center</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each pedicureData}}
+        <tr class="table-line">
+            <td>{{name}}</td>
+            <td>{{price}}</td>
+            <td>{{[price by card]}}</td>
+        </tr>
+        {{/each}}
+
+    </tbody>
+</table>

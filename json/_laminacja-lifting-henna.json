@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Regulacja brwi woskiem/pęcetą",
+    "price": 29,
+    "price by card": 25
+  },
+  {
+    "name": "Henna brwi",
+    "price": 29,
+    "price by card": 25
+  },
+  {
+    "name": "Henna rzęs",
+    "price": 29,
+    "price by card": 25
+  },
+  {
+    "name": "Henna brwi i rzęs",
+    "price": 59,
+    "price by card": 45
+  },
+  {
+    "name": "Komplet (henna rzęs i brwi z regulacją)",
+    "price": 69,
+    "price by card": 59
+  },
+  {
+    "name": "Laminowanie brwi z koloryzacją",
+    "price": 179,
+    "price by card": 159
+  },
+  {
+    "name": "Laminowanie rzęs i brwi KOMPLET+ keratyna+botox+henna",
+    "price": 299,
+    "price by card": 279
+  },
+  {
+    "name": "Lifting rzęs z koloryzacją",
+    "price": 179,
+    "price by card": 159
+  }
+]
